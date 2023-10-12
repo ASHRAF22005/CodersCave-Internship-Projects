@@ -1,2 +1,2 @@
-# Exploratory-Data-Analysis-Terrorism
-It contains source code of my project of analysing the data of terrorism.
+# CodersCave Internship Projects
+A space where a set of different projects is learned practically
